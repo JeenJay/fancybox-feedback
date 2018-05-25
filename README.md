@@ -1,1 +1,2 @@
-Основа взята из статьи http://xozblog.ru/2012/11/modal-windows/
+# Форма обратной связи в модальном окне с использованием jQuery FancyBox 2.1.7
+Основа проекта взята из статьи http://xozblog.ru/2012/11/modal-windows/.

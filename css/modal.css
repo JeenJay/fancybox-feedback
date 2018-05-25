@@ -1,0 +1,15 @@
+.modal {
+	display: none;
+}
+
+	.modal__header {
+		padding: 15px;
+	}
+
+	.modal__body {
+		padding: 15px;
+	}
+
+	.modal__footer {
+		padding: 15px;
+	}

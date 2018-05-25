@@ -50,6 +50,7 @@ $(document).ready(function() {
 						$('#feedback').fadeOut('fast', function () {
 							$(this).before('<p><strong>Успешно! Ваше сообщение отправлено  :)</strong></p>');
 							setTimeout('$.fancybox.close()', 1000);
+							$('#contact')[0].reset();
 						});
 					}
 				}

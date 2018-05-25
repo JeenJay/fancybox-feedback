@@ -15,7 +15,7 @@
 	// Формирование тела письма
 	$msg  = '<html><body style="font-family:Arial,sans-serif;">';
 	$msg .= '<h2 style="font-weight:bold;border-bottom:1px dotted #ccc;">Новое сообщение</h2> \r\n';
-	$msg .= '<p><strong>От кого:</strong> ' . $username . '(' . $usermail . ')</p> \r\n';
+	$msg .= '<p><strong>От кого:</strong> ' . $username . ' (' . $usermail . ')</p> \r\n';
 	$msg .= '<p><strong>Сообщение:</strong> ' . $content . '</p> \r\n';
 	$msg .= '</body></html>';
 

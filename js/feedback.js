@@ -43,8 +43,8 @@ $(document).ready(function() {
 			
 			$.ajax({
 				type: 'POST',
-				url: '../sendmessage.php',
-				data: $('#feedback').serialize(),
+				url: 'sendmessage.php',
+				data: $('#contact').serialize(),
 				success: function (data) {
 					if (data == 'true') {
 						$('#feedback').fadeOut('fast', function () {

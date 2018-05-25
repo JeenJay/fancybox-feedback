@@ -1,0 +1,1 @@
+Основа взята из статьи http://xozblog.ru/2012/11/modal-windows/
